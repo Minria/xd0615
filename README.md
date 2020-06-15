@@ -12,7 +12,9 @@ github.com
 1. 安装git工具
 2. 设置ssh-keygen，直接访问github。
 3. git的基本操作。
-Set up执行一次
+set up执行一次
 loop重复执行类似c语言中的while。
 建议
 感觉直播的画面不是很清晰。
+这是第二次更新，好难搞。
+为什么更新总是失败。
