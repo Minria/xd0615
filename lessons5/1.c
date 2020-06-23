@@ -37,7 +37,7 @@ void loop()
   	income=Serial.read();
     
     income=income-'0';
-    digitalWrite(S1,LOW);
+    digitalWrite(S4,LOW);
     digitalWrite(2,income&0x1);
     digitalWrite(3,(income>>1)&0x1);
     digitalWrite(4,(income>>2)&0x1);
