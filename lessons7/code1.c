@@ -1,4 +1,4 @@
-int i=0;
+int i=0;//此代码无法运行
 int j=0;
 int k=0;
  
@@ -37,4 +37,4 @@ void loop()
       delay(1000);
     }
   }
-}
+}     
